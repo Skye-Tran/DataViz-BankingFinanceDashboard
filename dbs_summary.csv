@@ -1,0 +1,141 @@
+Measure Category,Measure,UoM,Year,Value
+Income Statement,Total income,$ millions,2019,14544.0
+Income Statement,Profit before allowances,$ millions,2019,8286.0
+Income Statement,Allowances,$ millions,2019,703.0
+Income Statement,Profit before tax,$ millions,2019,7583.0
+Income Statement,Net profit excluding one-time items,$ millions,2019,6391.0
+Income Statement,One-time items,$ millions,2019,0.0
+Income Statement,Net profit,$ millions,2019,6391.0
+Balance Sheet,Total assets,$ millions,2019,578946.0
+Balance Sheet,Customer loans,$ millions,2019,357884.0
+Balance Sheet,Total liabilities,$ millions,2019,527147.0
+Balance Sheet,Customer deposits,$ millions,2019,404289.0
+Balance Sheet,Total shareholders’ funds,$ millions,2019,50981.0
+Per Ordinary Share,Earnings excluding one-time items,$,2019,2.46
+Per Ordinary Share,Earnings,$,2019,2.46
+Per Ordinary Share,Net asset value,$,2019,19.17
+Per Ordinary Share,Dividends,$,2019,1.23
+Financial Ratio,Dividend cover for ordinary shares,%,2019,2.0
+Financial Ratio,Net interest margin,%,2019,1.89
+Financial Ratio,Cost-to-income,%,2019,43.0
+Financial Ratio,Return on assets,%,2019,1.13
+Financial Ratio,Return on equity,%,2019,13.2
+Financial Ratio,Loan/ deposit ratio,%,2019,88.5
+Financial Ratio,Non-performing loan rate,%,2019,1.5
+Financial Ratio,Loss allowance coverage,%,2019,94.0
+Capital Adequacy,Common Equity Tier 1,%,2019,14.1
+Capital Adequacy,Tier 1,%,2019,15.0
+Capital Adequacy,Total,%,2019,16.7
+Capital Adequacy,Basel III fully phased-in Equity Tier 1,%,2019,14.1
+Income Statement,Total income,$ millions,2018,13183.0
+Income Statement,Profit before allowances,$ millions,2018,7385.0
+Income Statement,Allowances,$ millions,2018,710.0
+Income Statement,Profit before tax,$ millions,2018,6675.0
+Income Statement,Net profit excluding one-time items,$ millions,2018,5625.0
+Income Statement,One-time items,$ millions,2018,-48.0
+Income Statement,Net profit,$ millions,2018,5577.0
+Balance Sheet,Total assets,$ millions,2018,550751.0
+Balance Sheet,Customer loans,$ millions,2018,345003.0
+Balance Sheet,Total liabilities,$ millions,2018,500876.0
+Balance Sheet,Customer deposits,$ millions,2018,393785.0
+Balance Sheet,Total shareholders’ funds,$ millions,2018,49045.0
+Per Ordinary Share,Earnings excluding one-time items,$,2018,2.16
+Per Ordinary Share,Earnings,$,2018,2.15
+Per Ordinary Share,Net asset value,$,2018,18.12
+Per Ordinary Share,Dividends,$,2018,1.2
+Financial Ratio,Dividend cover for ordinary shares,%,2018,1.79
+Financial Ratio,Net interest margin,%,2018,1.85
+Financial Ratio,Cost-to-income,%,2018,44.0
+Financial Ratio,Return on assets,%,2018,1.05
+Financial Ratio,Return on equity,%,2018,12.1
+Financial Ratio,Loan/ deposit ratio,%,2018,87.6
+Financial Ratio,Non-performing loan rate,%,2018,1.5
+Financial Ratio,Loss allowance coverage,%,2018,98.0
+Capital Adequacy,Common Equity Tier 1,%,2018,13.9
+Capital Adequacy,Tier 1,%,2018,15.1
+Capital Adequacy,Total,%,2018,16.9
+Capital Adequacy,Basel III fully phased-in Equity Tier 1,%,2018,13.9
+Income Statement,Total income,$ millions,2017,11924.0
+Income Statement,Profit before allowances,$ millions,2017,6794.0
+Income Statement,Allowances,$ millions,2017,1544.0
+Income Statement,Profit before tax,$ millions,2017,5250.0
+Income Statement,Net profit excluding one-time items,$ millions,2017,4390.0
+Income Statement,One-time items,$ millions,2017,-19.0
+Income Statement,Net profit,$ millions,2017,4371.0
+Balance Sheet,Total assets,$ millions,2017,517711.0
+Balance Sheet,Customer loans,$ millions,2017,323099.0
+Balance Sheet,Total liabilities,$ millions,2017,467909.0
+Balance Sheet,Customer deposits,$ millions,2017,373634.0
+Balance Sheet,Total shareholders’ funds,$ millions,2017,47458.0
+Per Ordinary Share,Earnings excluding one-time items,$,2017,1.69
+Per Ordinary Share,Earnings,$,2017,1.69
+Per Ordinary Share,Net asset value,$,2017,17.85
+Per Ordinary Share,Dividends,$,2017,1.43
+Financial Ratio,Dividend cover for ordinary shares,%,2017,1.17
+Financial Ratio,Net interest margin,%,2017,1.75
+Financial Ratio,Cost-to-income,%,2017,43.0
+Financial Ratio,Return on assets,%,2017,0.89
+Financial Ratio,Return on equity,%,2017,9.7
+Financial Ratio,Loan/ deposit ratio,%,2017,86.5
+Financial Ratio,Non-performing loan rate,%,2017,1.7
+Financial Ratio,Loss allowance coverage,%,2017,85.0
+Capital Adequacy,Common Equity Tier 1,%,2017,14.3
+Capital Adequacy,Tier 1,%,2017,15.1
+Capital Adequacy,Total,%,2017,15.9
+Capital Adequacy,Basel III fully phased-in Equity Tier 1,%,2017,13.9
+Income Statement,Total income,$ millions,2016,14544.0
+Income Statement,Profit before allowances,$ millions,2016,8286.0
+Income Statement,Allowances,$ millions,2016,703.0
+Income Statement,Profit before tax,$ millions,2016,7583.0
+Income Statement,Net profit excluding one-time items,$ millions,2016,6391.0
+Income Statement,One-time items,$ millions,2016,0.0
+Income Statement,Net profit,$ millions,2016,6391.0
+Balance Sheet,Total assets,$ millions,2016,481570.0
+Balance Sheet,Customer loans,$ millions,2016,301516.0
+Balance Sheet,Total liabilities,$ millions,2016,434600.0
+Balance Sheet,Customer deposits,$ millions,2016,347446.0
+Balance Sheet,Total shareholders’ funds,$ millions,2016,44609.0
+Per Ordinary Share,Earnings excluding one-time items,$,2016,1.66
+Per Ordinary Share,Earnings,$,2016,1.66
+Per Ordinary Share,Net asset value,$,2016,16.87
+Per Ordinary Share,Dividends,$,2016,0.6
+Financial Ratio,Dividend cover for ordinary shares,%,2016,2.78
+Financial Ratio,Net interest margin,%,2016,1.8
+Financial Ratio,Cost-to-income,%,2016,43.3
+Financial Ratio,Return on assets,%,2016,0.92
+Financial Ratio,Return on equity,%,2016,10.1
+Financial Ratio,Loan/ deposit ratio,%,2016,86.8
+Financial Ratio,Non-performing loan rate,%,2016,1.4
+Financial Ratio,Loss allowance coverage,%,2016,97.0
+Capital Adequacy,Common Equity Tier 1,%,2016,14.1
+Capital Adequacy,Tier 1,%,2016,14.7
+Capital Adequacy,Total,%,2016,16.2
+Capital Adequacy,Basel III fully phased-in Equity Tier 1,%,2016,13.3
+Income Statement,Total income,$ millions,2015,10801.0
+Income Statement,Profit before allowances,$ millions,2015,5901.0
+Income Statement,Allowances,$ millions,2015,743.0
+Income Statement,Profit before tax,$ millions,2015,5158.0
+Income Statement,Net profit excluding one-time items,$ millions,2015,4318.0
+Income Statement,One-time items,$ millions,2015,136.0
+Income Statement,Net profit,$ millions,2015,4454.0
+Balance Sheet,Total assets,$ millions,2015,457834.0
+Balance Sheet,Customer loans,$ millions,2015,283289.0
+Balance Sheet,Total liabilities,$ millions,2015,415038.0
+Balance Sheet,Customer deposits,$ millions,2015,320134.0
+Balance Sheet,Total shareholders’ funds,$ millions,2015,40374.0
+Per Ordinary Share,Earnings excluding one-time items,$,2015,1.71
+Per Ordinary Share,Earnings,$,2015,1.77
+Per Ordinary Share,Net asset value,$,2015,15.82
+Per Ordinary Share,Dividends,$,2015,0.6
+Financial Ratio,Dividend cover for ordinary shares,%,2015,2.94
+Financial Ratio,Net interest margin,%,2015,1.77
+Financial Ratio,Cost-to-income,%,2015,45.4
+Financial Ratio,Return on assets,%,2015,0.96
+Financial Ratio,Return on equity,%,2015,11.2
+Financial Ratio,Loan/ deposit ratio,%,2015,88.5
+Financial Ratio,Non-performing loan rate,%,2015,0.9
+Financial Ratio,Loss allowance coverage,%,2015,148.0
+Capital Adequacy,Common Equity Tier 1,%,2015,13.5
+Capital Adequacy,Tier 1,%,2015,13.5
+Capital Adequacy,Total,%,2015,15.4
+Capital Adequacy,Basel III fully phased-in Equity Tier 1,%,2015,12.4
